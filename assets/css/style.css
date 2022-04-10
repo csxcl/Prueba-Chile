@@ -48,7 +48,7 @@ div .card {
     max-height: 200px !important;
     height: auto;
     object-fit: cover;
-    width: 100%;    
+    width: 100%;
 }
 
 .quienes .card-body {
@@ -98,4 +98,3 @@ footer a {
 }
 
 /* font-family: 'Raleway', sans-serif; 300 400 500 */
-

@@ -16,7 +16,7 @@ $(".fa-route").click(function () {
 });
 
 
-$(".p3").ready(function(){
+$(".p3").ready(function () {
     $('[data-toggle="popover"]').popover();
-  });
+});
 
