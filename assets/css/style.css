@@ -40,9 +40,15 @@ h2 {
     max-width: 100%;
 }
 
+div .card {
+    min-height: 100%;
+}
+
 .card-img-top {
-    max-width: 310px;
-    max-height: 207px;
+    max-height: 200px !important;
+    height: auto;
+    object-fit: cover;
+    width: 100%;    
 }
 
 .quienes .card-body {
@@ -92,3 +98,4 @@ footer a {
 }
 
 /* font-family: 'Raleway', sans-serif; 300 400 500 */
+
